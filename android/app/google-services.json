@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "849155359890",
+    "firebase_url": "https://hashtags-41a82.firebaseio.com",
+    "project_id": "hashtags-41a82",
+    "storage_bucket": "hashtags-41a82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849155359890:android:bf9939d37cf6322162924b",
+        "android_client_info": {
+          "package_name": "com.rookis.hastagsforinstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849155359890-qns14d9ngeh2490numcje1ncca81tbqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYvYJ9mpzEEoiNL01M9zZrmyO-eUriXv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849155359890-qns14d9ngeh2490numcje1ncca81tbqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
